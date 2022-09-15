@@ -1,0 +1,13 @@
+{
+    "name": "Dteam",
+    "alias": "dteam",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Dteam\\Providers\\DteamServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
